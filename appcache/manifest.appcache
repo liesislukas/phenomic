@@ -1,0 +1,13 @@
+CACHE MANIFEST
+#ver:10/9/2016, 11:40:16 PM
+
+CACHE:
+/
+/phenomic.browser.8e9f8d86070305f77054.js
+/phenomic.browser.8e9f8d86070305f77054.css
+
+NETWORK:
+*
+
+FALLBACK:
+/ /index.html
